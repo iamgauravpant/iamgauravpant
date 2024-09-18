@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Gaurav Pant
-- 👀 I’m interested in full stack web development.
-- 🌱 I’m currently learning MERN stack development.
-- 💞️ I’m looking to collaborate in web development projects ( MERN stack ).
+- 👀 I’m interested in Blockchain and AI
+- 🌱 I’m currently learning GenAI
+- 💞️ I’m looking to collaborate in Blockchain and GenAI related projects
 - 📫 How to reach me ... pantgaurav31@gmail.com
 
 <!---
